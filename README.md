@@ -4,7 +4,7 @@
 This assignment is all about GitHub. It is divided into two parts.
 
 ## Part 1: Share your Poem
-You will have to create a poem in `src/poem.txt` and push it to your repository. The poem must have at least **20** non-empty lines, including the title. Feel free to search for your favorite poems online.
+You will have to create a poem in `src/poem.txt` and push it to your repository. The poem must have greater than **20** non-empty lines, including the title. Feel free to search for your favorite poems online.
 
 > [!NOTE]
 > Since the repository is generated publicly, it will be visible to other DTP participants.
